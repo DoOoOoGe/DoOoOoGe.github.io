@@ -7,16 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 DoOoOoGe</copyright>
-    <lastBuildDate>Sat, 13 Dec 2025 23:50:12 +0800</lastBuildDate><atom:link href="https://DoOoOoGe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Dec 2025 22:54:07 +0800</lastBuildDate><atom:link href="https://DoOoOoGe.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Test Coding2</title>
-      <link>https://DoOoOoGe.github.io/blogs/my-first-post/</link>
-      <pubDate>Sat, 13 Dec 2025 23:18:29 +0800</pubDate>
+      <title>使用 Hugo 在 Github Pages 搭建博客</title>
+      <link>https://DoOoOoGe.github.io/posts/build-a-blog-web-with-hugo-and-github-pages/</link>
+      <pubDate>Mon, 15 Dec 2025 22:54:07 +0800</pubDate>
       
-      <guid>https://DoOoOoGe.github.io/blogs/my-first-post/</guid>
+      <guid>https://DoOoOoGe.github.io/posts/build-a-blog-web-with-hugo-and-github-pages/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://DoOoOoGe.github.io/posts/build-a-blog-web-with-hugo-and-github-pages/feature.jpg" />
     </item>
     
     <item>
@@ -37,16 +37,6 @@
       <guid>https://DoOoOoGe.github.io/posts/my-first-post/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://DoOoOoGe.github.io/posts/my-first-post/feature.png" />
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://DoOoOoGe.github.io/blogs/my-second-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://DoOoOoGe.github.io/blogs/my-second-post/</guid>
-      <description></description>
-      
     </item>
     
   </channel>

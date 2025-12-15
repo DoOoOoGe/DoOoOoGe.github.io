@@ -4,25 +4,19 @@
 
   <url>
     <loc>https://DoOoOoGe.github.io/</loc>
-    <lastmod>2025-12-13T23:50:12+08:00</lastmod>
+    <lastmod>2025-12-15T22:54:07+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://DoOoOoGe.github.io/posts/build-a-blog-web-with-hugo-and-github-pages/</loc>
+    <lastmod>2025-12-15T22:54:07+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://DoOoOoGe.github.io/posts/</loc>
     <lastmod>2025-12-13T23:50:12+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DoOoOoGe.github.io/blogs/my-first-post/</loc>
-    <lastmod>2025-12-13T23:18:29+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DoOoOoGe.github.io/blogs/</loc>
-    <lastmod>2025-12-13T23:16:30+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -35,11 +29,6 @@
   <url>
     <loc>https://DoOoOoGe.github.io/posts/my-first-post/</loc>
     <lastmod>2025-11-26T21:33:39+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://DoOoOoGe.github.io/blogs/my-second-post/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
